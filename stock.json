@@ -1,0 +1,18 @@
+[
+  {
+    "marque": "Porsche",
+    "modele": "911 Carrera",
+    "annee": 2019,
+    "kilometrage": 45000,
+    "prix": 89900,
+    "statut": "Disponible"
+  },
+  {
+    "marque": "Chevrolet",
+    "modele": "Corvette C7",
+    "annee": 2017,
+    "kilometrage": 32000,
+    "prix": 64500,
+    "statut": "Disponible"
+  }
+]
